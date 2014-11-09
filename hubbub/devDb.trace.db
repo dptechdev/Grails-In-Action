@@ -1,0 +1,3 @@
+11-08 22:04:48 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "SELECT * FROM PROFILE POST CONTENT"; SQL statement:
+SELECT * FROM PROFILE POST CONTENT [42000-176]
